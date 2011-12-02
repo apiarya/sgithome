@@ -41,9 +41,9 @@
 	</distributionManagement>
 	
 	<scm>
-		<connection>scm:git:git://github.com/swapsapar/sgithome.git</connection>
-		<developerConnection>scm:git:git@github.com:swapsapar/sgithome.git</developerConnection>
-		<url>scm:git:https://github.com/swapsapar/sgithome</url>
+		<connection>scm:git:git://github.com:swapsapar/sgithome.git</connection>
+		<developerConnection>scm:git:git://github.com/swapsapar/sgithome.git</developerConnection>
+		<url>http://maven.apache.org</url>
 	</scm>
 
     <build>
