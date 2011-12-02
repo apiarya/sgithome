@@ -42,7 +42,7 @@
 	<scm>
 		<connection>scm:git:git://github.com:swapsapar/sgithome.git</connection>
 		<developerConnection>scm:git:git://github.com/swapsapar/sgithome.git</developerConnection>
-		<url>http://maven.apache.org</url>
+		<url>scm:git:git://github.com/swapsapar/sgithome.git</url>
 	</scm>
 
     <build>
