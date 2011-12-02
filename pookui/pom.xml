@@ -16,7 +16,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.pn.ws</groupId>
     <artifactId>pookui</artifactId>
-    <version>1.3-SNAPSHOT</version>
+    <version>1.3</version>
     <name>pookui</name>
 
     <organization>
