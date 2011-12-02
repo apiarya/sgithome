@@ -43,7 +43,7 @@
 	<scm>
 		<connection>scm:git:git://github.com/swapsapar/sgithome.git</connection>
 		<developerConnection>scm:git:git@github.com:swapsapar/sgithome.git</developerConnection>
-		<url>https://github.com/swapsapar/sgithome</url>
+		<url>scm:git:https://github.com/swapsapar/sgithome</url>
 	</scm>
 
     <build>
