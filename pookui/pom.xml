@@ -24,6 +24,27 @@
         <name>akquinet A.G.</name>
         <url>http://www.akquinet.de/en</url>
     </organization>
+    
+	<distributionManagement>
+		<!-- use the following if you're not using a snapshot version. -->
+		<repository>
+			<id>releaserepo</id>
+			<name>Fake Local Repository</name>
+			<url>file:///Users/ssapar/mywork/abhyas/gitmvnrepo/release</url>
+		</repository>
+		<!-- use the following if you ARE using a snapshot version. -->
+		<snapshotRepository>
+			<id>snaprepo</id>
+			<name>Fake Snapshot Repository</name>
+			<url>file:///Users/ssapar/mywork/abhyas/gitmvnrepo/snapshot</url>
+		</snapshotRepository>
+	</distributionManagement>
+	
+	<scm>
+		<connection>scm:git:git://github.com/swapsapar/sgithome.git</connection>
+		<developerConnection>scm:git:git@github.com:swapsapar/sgithome.git</developerConnection>
+		<url>https://github.com/swapsapar/sgithome</url>
+	</scm>
 
     <build>
         <resources>
